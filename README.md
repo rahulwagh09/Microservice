@@ -13,3 +13,4 @@ Tech Stack I’ve Worked With:
 ☁️ AWS (Amazon Web Services): Cloud infrastructure management
 
 ![Uploading MicroServices Project.jpeg…]()
+![Uploading Microservices Pipeline.gif…]()
